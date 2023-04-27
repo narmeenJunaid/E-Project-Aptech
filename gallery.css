@@ -1,0 +1,112 @@
+.main {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.cont-1 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#img-1 {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+    filter: brightness(0.7);
+    opacity: 0.85;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.containernav {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.link1 {
+    margin: auto;
+}
+
+.navbar ul li a {
+    color: #ffffff;
+}
+
+.navbar ul li a:hover {
+    color: #D6BCB5;
+}
+
+.dropdown-item {
+    color: black !important;
+}
+
+a img {
+    margin-left: 40px;
+}
+
+.contus-btn {
+    border: 2px solid #ffffff !important;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #ffffff !important;
+    text-align: center !important;
+    font-family: Cormorant Garamond !important;
+    margin-top: 140px;
+    font-size: 50px !important;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+div.imagetiles div.col-lg-3.col-md-3.col-sm-3.col-xs-6 {
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px !important;
+    margin-left: auto;
+    position: absolute;
+}
+
+.img1 {
+
+    filter: grayscale(80%);
+    transition: all .5s;
+}
+
+.img1:hover {
+    filter: grayscale(0);
+    transform: scale(.8);
+
+}
+
+.hello {
+    margin-top: 150px;
+    padding-right: 0ps !important;
+}
+
+hr {
+    border: 3px solid #D6BCB5;
+    margin-top: 100px;
+    width: 100%;
+
+}
+
+p {
+    text-indent: 2%;
+    text-align: center;
+    margin-left: -10px;
+    font-family: playfair display;
+    text-transform: capitalize;
+    font-size: 15px;
+}
+
+.column1 {
+    z-index: -1;
+}

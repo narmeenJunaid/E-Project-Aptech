@@ -1,0 +1,127 @@
+.main {
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.cont-1 {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+#img-1 {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+    filter: brightness(0.7);
+    opacity: 0.85;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.containernav {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.link1 {
+    margin: auto;
+}
+
+.navbar ul li a {
+    color: #ffffff;
+}
+
+.navbar ul li a:hover {
+    color: #D6BCB5;
+}
+
+.dropdown-item {
+    color: black !important;
+}
+
+a img {
+    margin-left: 40px;
+}
+
+.contus-btn {
+    border: 2px solid #ffffff !important;
+    padding: 0px 20px 0px 20px !important;
+    color: #ffffff !important;
+    text-align: center !important;
+    font-family: Cormorant Garamond !important;
+    margin-top: 140px;
+    font-size: 50px !important;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.maincontainer {
+    margin-top: 140px;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.col-md-4 {
+    margin-left: -5px;
+}
+
+.fa-star,
+.fa-star-half-stroke {
+    color: #F9C70C;
+}
+
+p {
+    font-family: playfair display;
+}
+
+h5 {
+    font-family: playfair display;
+}
+
+h1 {
+    text-transform: capitalize;
+    margin-top: 100px !important;
+    font-family: playfair display;
+    font-style: italic;
+    margin-bottom: 20px !important;
+}
+
+.column1 {
+    margin-left: 0px !important;
+}
+
+hr {
+    border: 2px solid #D6BCB5 !important;
+    margin-top: -10px !important;
+
+}
+
+.row {
+    margin-top: 30px !important;
+}
+
+.footer {
+    margin-top: 50px;
+    background-color: rgba(97, 160, 160, 0.95);
+    width: 100%;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+}
+
+.copy {
+    color: #ffffff;
+}
+
+.copy a {
+    color: #ffffff;
+}
+
+.copy a:hover {
+    color: #D6BCB5;
+}
